@@ -1,0 +1,62 @@
+{
+  "name": "pjane-okta_ldap_agent",
+  "version": "4.0.1",
+  "author": "pjane",
+  "summary": "OKTA LDAP Agent for Linux",
+  "license": "Apache-2.0",
+  "source": "https://github.com/zpol/okta_ldap_agent",
+  "project_page": "https://github.com/zpol/okta_ldap_agent",
+  "issues_url": "https://github.com/zpol/okta_ldap_agent/issues",
+  "dependencies": [
+  
+  ],
+  "data_provider": null,
+  "description": "Puppet module to install & configure Okta LDAP Agent",
+  "tags": [
+    "okta",
+    "ldap",
+    "SSO"
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "12.04",
+        "12.10",
+        "13.04",
+        "13.10",
+        "14.04",
+        "15.04"
+      ]
+    },
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Archlinux"
+    },
+    {
+      "operatingsystem": "FreeBSD"
+    }
+  ]
+}

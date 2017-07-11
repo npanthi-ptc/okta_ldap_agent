@@ -1,0 +1,7 @@
+{
+  "README.md": "4ce4e08ccc44f93f79372e28a178a0a1",
+  "manifests/init.pp": "0f50de2ff4a6a52ea9ec2d19648f29e9",
+  "metadata.json": "7d753be72768d894e60919a5adde843e",
+  "templates/InstallOktaLDAPAgent.erb": "7f2770f88257b13f95e0a3585fafe92a",
+  "templates/OktaLDAPAgent.erb": "6c8ab2ce56b61b888d64c0d71835b9d9"
+}
